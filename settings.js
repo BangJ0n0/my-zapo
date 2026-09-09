@@ -19,7 +19,7 @@ export const settings = {
   ownerName: 'icikk',
   owner: '6281232514061',
   botName: 'icikiwir',
-  botNumber: '',
+  botNumber: '6285177496938',
 
   //id grup mu. fitur backup dioper kesinii. bukan chat pribadi.
   jidGroup: '120363337059909083@g.us',
